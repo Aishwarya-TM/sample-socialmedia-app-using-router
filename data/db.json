@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "41",
+      "title": "Css for begiineers",
+      "dateTime": "12/22/2024, 7:37:18 PM",
+      "body": "learn step by step"
+    },
+    {
+      "id": "411",
+      "title": "Learing React",
+      "dateTime": "12/22/2024, 7:58:53 PM",
+      "body": "Learing React step by Step"
+    },
+    {
+      "id": "4111",
+      "title": "Attending Ai automation con",
+      "dateTime": "12/22/2024, 7:59:25 PM",
+      "body": "Attending Ai automation con"
+    }
+  ]
+}
